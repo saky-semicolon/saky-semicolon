@@ -1,47 +1,22 @@
-<br>
-<!--
-**sakyAIU/sakyAIU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, guys! <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fhi-gif-19272330&psig=AOvVaw01mUMduF6cLl58GsF4d9zl&ust=1685867835001000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDejZ7Zpv8CFQAAAAAdAAAAABAc" width="28px" alt="👋"></h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="centre"> Hi there </h1>
-
-<p align="left">
-  <a href="https://github.com/codemaker2015/codemaker2015">
-    <img src="https://komarev.com/ghpvc/?username=codemaker2015&color=red" alt="profile views" />
-  </a>
-  <a href="https://github.com/codemaker2015/codemaker2015">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
-  </a>
-  <a href="https://stackoverflow.com/users/7103882">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7103882?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://www.hackerrank.com/codemaker2015">
-    <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-15+-green?color=green&logo=hackerrank">
-  </a>
-  <a href="https://codemaker2015.medium.com">
-    <img alt="Medium" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium">
-  </a>
-  <a href="https://github.com/codemaker2015?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/codemaker2015?color=yellow&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/codemaker2015">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
-  </a>
-  <a href="https://twitter.com/codemaker2014">
-    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
-  </a>
-  <a href="https://www.facebook.com/vishnu.sivan.754">
-    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook">
-  </a>
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        This is Saky!<br>
+        Currently Studying Computer Science in AlBukhary International University, Malaysia.<br>
+        Have working experience in several sectors especially in web development.<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/s-m-asiful-islam-saky-686418231/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/sakyORW">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="Twitter">
+    </a>
+    <a href="https://facebook.com/saky.orw">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Meta&color=0467DF&logo=Meta&logoColor=FFFFFF&label=" alt="Facebook">
+    </a>
+    <a href="https://wa.me/message/OWPIIW57H75AB1">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=222222&logo=WhatsApp&logoColor=25D366&label=" alt="WhatsApp">
+    </a>
 </p>
