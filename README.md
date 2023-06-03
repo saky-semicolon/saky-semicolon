@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="centre"> Hi there </h1>
+<h1 align="center"> Hi there </h1>
 
 <p align="left">
   <a href="https://github.com/codemaker2015/codemaker2015">
