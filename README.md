@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="media_files/cover.jpg" alt="S M Asiful Islam Saky" width="100%" />
+<h1 align="centre> Hi there </h1>
+
 <p align="left">
   <a href="https://github.com/codemaker2015/codemaker2015">
     <img src="https://komarev.com/ghpvc/?username=codemaker2015&color=red" alt="profile views" />
