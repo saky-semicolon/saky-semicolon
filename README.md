@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://e7.pngegg.com/pngimages/393/743/png-clipart-desktop-hi-five-smiley-desktop-wallpaper-thumbnail.png" width="28px" alt=""></h1>
+<h1 align="center">Hi, guys! <img src="https://p7.hiclipart.com/preview/703/417/101/smiley-emoticon-hello-clip-art-say-hi.jpg" width="28px" alt=""></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
