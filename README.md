@@ -7,7 +7,7 @@
         Currently Studying Computer Science in AlBukhary International University, Malaysia.<br>
         Have working experience in several sectors especially in web development.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/s-m-asiful-islam-saky-686418231/">
+    <a href="https://www.linkedin.com/in/saky-semicolon/">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn">
     </a>
     <a href="https://twitter.com/sakyORW">
