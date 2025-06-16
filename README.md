@@ -2,10 +2,10 @@
 <h3 align="center">ML Engineer | Data Scientist | Web Developer</h3>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-0078D4?style=flat&logo=Google-Chrome&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/✉️ Email-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://www.researchgate.net/profile/YourName" target="_blank"><img src="https://img.shields.io/badge/📚 ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white" /></a>
+  <a href="https://saky.space" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-0078D4?style=flat&logo=Google-Chrome&logoColor=white" /></a>
+  <a href="mailto:saky.aiu22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/✉️ Email-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/saky-semicolon" target="_blank"><img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.researchgate.net/profile/S-M-Asiful-Islam-Saky" target="_blank"><img src="https://img.shields.io/badge/📚 ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white" /></a>
 </p>
 
 ---
@@ -75,21 +75,6 @@
 <!--START_SECTION:repos-->
 <!--END_SECTION:repos-->
 
-
-### 🚧 My Todoist Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Karma-8004-blueviolet?style=for-the-badge&logo=todoist&logoColor=white" alt="Karma Points"/>
-  <img src="https://img.shields.io/badge/Tasks%20Today-0-lightgrey?style=for-the-badge&logo=todoist&logoColor=white" alt="Tasks Today"/>
-  <img src="https://img.shields.io/badge/Total%20Completed-673-success?style=for-the-badge&logo=todoist&logoColor=white" alt="Completed Tasks"/>
-  <img src="https://img.shields.io/badge/Longest%20Streak-10%20days-orange?style=for-the-badge&logo=todoist&logoColor=white" alt="Longest Streak"/>
-</p>
-
-
-<p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Visit My Portfolio-1E90FF?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Contact Me-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/saky-semicolon">
