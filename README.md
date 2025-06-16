@@ -76,7 +76,6 @@
 <!--END_SECTION:repos-->
 
 
-
 ### 🚧 My Todoist Stats
 
 <p align="center">
