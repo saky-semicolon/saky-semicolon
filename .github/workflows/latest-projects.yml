@@ -2,7 +2,7 @@ name: 🔄 Update Latest Projects
 
 on:
   schedule:
-    - cron: "0 * * * *"  # runs every hour
+    - cron: "0 * * * *"  # Every hour
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update README with latest repositories
-        uses: gayanvoice/readme-repos@main
+        uses: gayanvoice/readme-repos@v1.5
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           readme_path: README.md
