@@ -91,7 +91,6 @@
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Contact Me-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
-<details>
 <p align="center">
   <a href="https://github.com/saky-semicolon">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saky-semicolon&theme=transparent" />
@@ -104,7 +103,6 @@
   </a>
   
 </p>
-</details>
 
 <p align="center">
   <a href="https://github.com/saky-semicolon">
