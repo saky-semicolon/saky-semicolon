@@ -58,16 +58,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" />
 </p>
 
-#### Tech Mentor & Educator
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry-Pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white" />
-</p>
-
 ---
 
 ### 🚀 Latest Projects
