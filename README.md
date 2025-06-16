@@ -60,13 +60,6 @@
 
 ---
 
-### 🚀 Latest Projects
-
-<!--START_SECTION:repos-->
-<!--END_SECTION:repos-->
-
----
-
 <p align="center">
   <a href="https://github.com/saky-semicolon">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saky-semicolon&theme=transparent" />
