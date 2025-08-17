@@ -62,16 +62,13 @@
 
 <p align="center">
   <a href="https://github.com/saky-semicolon">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saky-semicolon&theme=transparent" />
-  </a>
+    <img src="https://github-stats-alpha.vercel.app/api?username=saky-semicolon&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
   <a href="https://github.com/saky-semicolon">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saky-semicolon&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/saky-semicolon">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saky-semicolon&theme=transparent" />
-  </a>
-  
 </p>
+
 
 <p align="center">
   <a href="https://github.com/saky-semicolon">
